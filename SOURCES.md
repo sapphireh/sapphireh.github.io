@@ -22,10 +22,10 @@ School names and degree descriptions are presented in English. The doctorate is 
 - EDA title, author order, venue, year, pages, and method: https://aclanthology.org/2026.emnlp-main.392/
 - EDA oral designation and implementation scope: https://github.com/sapphireh/EDA/blob/main/README.md
 - SMART title, author order, venue, year, pages, DOI, and method: https://aclanthology.org/2026.acl-long.1638/
-- SMART repository: https://github.com/sapphireh/SMART
+- SMART dataset (selected by the owner): https://huggingface.co/datasets/ewdfd/SMART
 - Author page: https://aclanthology.org/people/yujie-hou/
 
-News uses publication months, not guessed acceptance dates. Paper descriptions are concise paraphrases. Research graphics are schematic, not measured experimental results. The SMART repository currently has a short README, so the site links to its repository without promising available code or downloadable data. Forked repositories are not presented as the owner's original research.
+News uses publication months, not guessed acceptance dates. Paper descriptions are concise paraphrases. Research graphics are schematic, not measured experimental results. The SMART resource link points to the Hugging Face dataset selected by the owner. Forked repositories are not presented as the owner's original research.
 
 ## Optional information not included
 
