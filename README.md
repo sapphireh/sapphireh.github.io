@@ -9,6 +9,7 @@ An English-only academic homepage for **Yujie Hou**, designed for the GitHub acc
 - `styles.css`: responsive screen and print styles.
 - `script.js`: BibTeX copying and the CV print action. Core content and native expandable summaries also work without JavaScript.
 - `assets/favicon.svg`: initials-based favicon.
+- `assets/papers/`: original paper figures, with sources and figure numbers documented in `SOURCES.md`; thumbnails link to the full-size images.
 - `assets/yujie-hou.jpg`: the owner-selected profile photograph; display framing is controlled by CSS.
 - `.nojekyll`: serves the site as static files on GitHub Pages.
 - `SOURCES.md`: content provenance and unresolved optional profile fields.
