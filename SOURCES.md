@@ -36,6 +36,7 @@ The four personal honors and their years were supplied by the owner. The owner a
 - PAUSE Outstanding Paper recognition in the Content Theme and method summary: https://english.bnu.edu.cn/newsevents/latestnews/2690686fa5924418b75c41fd322a8264.htm
 - PAUSE official code, linked by the BNU announcement: https://github.com/xixi-555/PAUSE_main_code
 - MBE conference paper, CVF pagination, and PDF: https://openaccess.thecvf.com/content/ACCV2022/html/Hou_Multi-Branch_Network_with_Ensemble_Learning_for_Text_Removal_in_the_ACCV_2022_paper.html
+- MBE code repository (selected by the owner): https://github.com/sapphireh/MBE_Multi-Branch-Network-with-Ensemble-Learning-for-Text-Removal-in-the-Wild. The repository was private when checked on 2026-10-31; homepage and CV links are labeled accordingly. Its visibility was not changed.
 - MBE author spelling and method: https://link.springer.com/chapter/10.1007/978-3-031-26313-2_6. The CVF index repeats part of Jiwei Chen's name; the author list follows Springer. The website uses the ACCV 2022 conference year and CVF page numbers (1333-1349), not the later Springer edition's 2023 publication date and pagination.
 - Author page: https://aclanthology.org/people/yujie-hou/
 
