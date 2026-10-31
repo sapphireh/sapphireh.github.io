@@ -22,3 +22,6 @@ h1,h2,h3,p{margin:0}a{color:var(--accent);text-decoration:none}a:hover{text-deco
 @media print{body{font-size:11px;color:#000}.site-header,.contact,.site-footer,.cv-toolbar,.skip-link,.copy-citation{display:none!important}.wrap{max-width:none;padding:0}.cv-heading{margin-top:0}.cv-heading h1{font-size:30px}.cv-section{margin-top:20px}.cv-section h2{font-size:18px}.cv-page .timeline li{padding-bottom:12px;grid-template-columns:110px 1fr;gap:18px}.cv-page .timeline h3{font-size:12px}.cv-page .timeline p{font-size:11px}.cv-page .timeline-note{font-size:10px}.cv-publications li{font-size:11px;break-inside:avoid}.timeline li,.paper{break-inside:avoid}a{color:inherit}.cv-footer{padding:12px 0}@page{size:A4;margin:16mm}}
 
 .award-badge{display:inline-block;padding:2px 7px;background:#fbf2dc;color:#80601c;border-radius:3px;font-size:10px;font-weight:600;letter-spacing:.3px;line-height:1.5}.cv-page .award-badge{vertical-align:middle}
+.honors-list{gap:17px}.honors-list li{grid-template-columns:65px minmax(0,1fr)}.honor-detail{margin-top:3px;font-size:12px;color:var(--muted);line-height:1.7}
+@media(max-width:600px){nav{column-gap:16px;row-gap:0}.honor-detail{font-size:11px}}
+@media print{.honors-list{gap:8px}.honors-list li{font-size:11px;break-inside:avoid}.honors-list time,.honor-detail{font-size:10px}.cv-section h2{break-after:avoid}}

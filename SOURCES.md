@@ -14,8 +14,16 @@ Content checked on **2026-10-31**.
 - 2020–2023: Master’s studies in Automation, University of Science and Technology of China; admitted through recommendation.
 - 2016–2020: Bachelor’s studies in Automation, Xiamen University.
 - 2010–2016: Middle and high school, Beijing Chaoyang Foreign Language School.
+- 2026: China Association for Science and Technology (CAST), Young Science and Technology Talent Cultivation Program, Doctoral Student Track.
+- 2025: National Scholarship for Doctoral Students.
+- 2023: Outstanding Graduate, University of Science and Technology of China.
+- 2023: Huayu Scholarship.
 
 School names and degree descriptions are presented in English. The doctorate is explicitly marked as in progress. No doctoral candidacy milestone, degree completion month, supervisor, work responsibility, or award was inferred.
+
+## Personal honors
+
+The four personal honors and their years were supplied by the owner. The owner also confirmed the University of Science and Technology of China as the institution for Outstanding Graduate. No provincial or national distinction is inferred, and no awarding institution is added for the Huayu Scholarship. The CAST program's English rendering distinguishes its doctoral student track; terminology was cross-checked against the [HKUST research portal's program entry](https://researchportal.hkust.edu.hk/en/prizes/doctoral-student-program-of-the-young-sampt-talents-cultivation-p/). That entry is a naming reference, not evidence of the owner's award. The owner's supplied years are preserved.
 
 ## Publications and repository descriptions
 

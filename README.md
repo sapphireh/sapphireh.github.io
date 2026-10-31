@@ -4,7 +4,7 @@ An English-only academic homepage for **Yujie Hou**, designed for the GitHub acc
 
 ## Files
 
-- `index.html`: profile, interests, news, publications, education, experience, and research repositories.
+- `index.html`: profile, interests, news, publications, education, experience, honors and awards, and research repositories.
 - `cv.html`: printable CV with the same confirmed personal details.
 - `styles.css`: responsive screen and print styles.
 - `script.js`: BibTeX copying and the CV print action. Core content and native expandable summaries also work without JavaScript.
@@ -55,6 +55,6 @@ GitHub documentation:
 
 ## Content updates
 
-Edit the corresponding sections in `index.html`. Keep education, employment, interests, and publications in `cv.html` consistent. Add only confirmed personal information. The homepage displays the photograph supplied by the owner; CSS controls the framing while the original image remains intact.
+Edit the corresponding sections in `index.html`. Keep education, employment, interests, honors and awards, and publications in `cv.html` consistent. Add only confirmed personal information. The homepage displays the photograph supplied by the owner; CSS controls the framing while the original image remains intact.
 
 To save a PDF of the CV, open `cv.html` and choose **Print / Save as PDF**. The print layout removes navigation and interactive controls.
