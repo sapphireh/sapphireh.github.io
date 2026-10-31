@@ -23,9 +23,15 @@ School names and degree descriptions are presented in English. The doctorate is 
 - EDA oral designation and implementation scope: https://github.com/sapphireh/EDA/blob/main/README.md
 - SMART title, author order, venue, year, pages, DOI, and method: https://aclanthology.org/2026.acl-long.1638/
 - SMART dataset (selected by the owner): https://huggingface.co/datasets/ewdfd/SMART
+- PAUSE title, author order, venue, date, and pages: https://api.crossref.org/works/10.1145/3746027.3755205 (publisher-deposited metadata).
+- PAUSE paper: https://dl.acm.org/doi/abs/10.1145/3746027.3755205
+- PAUSE Outstanding Paper recognition in the Content Theme and method summary: https://english.bnu.edu.cn/newsevents/latestnews/2690686fa5924418b75c41fd322a8264.htm
+- PAUSE official code, linked by the BNU announcement: https://github.com/xixi-555/PAUSE_main_code
+- MBE conference paper, CVF pagination, and PDF: https://openaccess.thecvf.com/content/ACCV2022/html/Hou_Multi-Branch_Network_with_Ensemble_Learning_for_Text_Removal_in_the_ACCV_2022_paper.html
+- MBE author spelling and method: https://link.springer.com/chapter/10.1007/978-3-031-26313-2_6. The CVF index repeats part of Jiwei Chen's name; the author list follows Springer. The website uses the ACCV 2022 conference year and CVF page numbers (1333-1349), not the later Springer edition's 2023 publication date and pagination.
 - Author page: https://aclanthology.org/people/yujie-hou/
 
-News uses publication months, not guessed acceptance dates. Paper descriptions are concise paraphrases. Research graphics are schematic, not measured experimental results. The SMART resource link points to the Hugging Face dataset selected by the owner. Forked repositories are not presented as the owner's original research.
+News uses publication months, not guessed acceptance dates; the November 2025 PAUSE award item uses the date of the university announcement. Paper descriptions are concise paraphrases. Research graphics are schematic, not measured experimental results. The SMART resource link points to the Hugging Face dataset selected by the owner. Forked repositories are not presented as the owner's original research.
 
 ## Optional information not included
 
