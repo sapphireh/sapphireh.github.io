@@ -38,13 +38,16 @@ The four personal honors and their years were supplied by the owner. The owner a
 - MBE conference paper, CVF pagination, and PDF: https://openaccess.thecvf.com/content/ACCV2022/html/Hou_Multi-Branch_Network_with_Ensemble_Learning_for_Text_Removal_in_the_ACCV_2022_paper.html
 - MBE code repository (selected by the owner): https://github.com/sapphireh/MBE_Multi-Branch-Network-with-Ensemble-Learning-for-Text-Removal-in-the-Wild. The owner made the repository public; public visibility and unauthenticated README access were verified on 2026-10-31. The homepage and CV link directly to the public code repository.
 - MBE author spelling and method: https://link.springer.com/chapter/10.1007/978-3-031-26313-2_6. The CVF index repeats part of Jiwei Chen's name; the author list follows Springer. The website uses the ACCV 2022 conference year and CVF page numbers (1333-1349), not the later Springer edition's 2023 publication date and pagination.
+- HOPE title, author order, equal-contribution designation, publication date, volume, article number, method, code link, and figure license: https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.608512/full. The first three authors (Yujie Hou, Xiong Zhang, and Qinyan Zhou) contributed equally, as marked on the first page of the [publisher PDF](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.608512/pdf).
+- HOPE publication year: **2021**, following the publisher's citation, BibTeX export, and publication date (18 January 2021). The volume is 11 (the 2020 volume), and the DOI retains `2020`; neither is used as the publication year. Article number: 608512. DOI: `10.3389/fgene.2020.608512`.
+- HOPE code, linked directly by the original article: https://github.com/adrift00/HOPE. Public repository access was verified.
 - Author page: https://aclanthology.org/people/yujie-hou/
 
 News uses publication months, not guessed acceptance dates; the November 2025 PAUSE award item uses the date of the university announcement. Paper descriptions are concise paraphrases. The SMART resource link points to the Hugging Face dataset selected by the owner. Forked repositories are not presented as the owner's original research.
 
 ## Original publication figures
 
-All four publication thumbnails reproduce original research figures. They are not AI-generated or redrawn. Clicking a thumbnail opens its full-size local image. The PDF figures retain the full diagram and labels; only surrounding page text and captions were excluded.
+All five publication thumbnails reproduce original research figures. They are not AI-generated or redrawn. Clicking a thumbnail opens its full-size local image. The PDF figures retain the full diagram and labels; only surrounding page text and captions were excluded.
 
 | Local asset | Original source | Selection |
 | --- | --- | --- |
@@ -52,6 +55,7 @@ All four publication thumbnails reproduce original research figures. They are no
 | `assets/papers/smart-figure-2.png` | [SMART paper PDF](https://aclanthology.org/2026.acl-long.1638.pdf#page=3) | Figure 2; PDF page 3, printed page 35428; benchmark construction and evaluation. |
 | `assets/papers/pause-framework.png` | [Authors' original framework asset](https://github.com/xixi-555/PAUSE_main_code/blob/master/assets/PAUSE_FRAME(a).png) | Framework panel (a), copied without modification from the official code repository. Matched visually against the complete framework reproduced in the [BNU announcement](https://english.bnu.edu.cn/newsevents/latestnews/2690686fa5924418b75c41fd322a8264.htm). |
 | `assets/papers/mbe-figure-3.png` | [MBE paper PDF](https://openaccess.thecvf.com/content/ACCV2022/papers/Hou_Multi-Branch_Network_with_Ensemble_Learning_for_Text_Removal_in_the_ACCV_2022_paper.pdf#page=5) | Figure 3; PDF page 5, printed page 1337; complete model architecture. |
+| `assets/papers/hope-figure-1.webp` | [Publisher's original Figure 1](https://www.frontiersin.org/files/Articles/608512/xml-images/fgene-11-608512-g0001.webp) | Complete HOPE framework, copied byte-for-byte (2008 × 2105 pixels), without cropping, redrawing, or generating content. © 2021 Hou, Zhang, Zhou, Hong and Wang; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The figure caption on the homepage links to the original article and license. |
 
 EDA, SMART, and MBE were rendered directly from their original PDFs as RGB PNGs at approximately 1600 pixels wide. Crop rectangles in PDF points (left, top, right, bottom): EDA `(69, 68, 526, 268)`; SMART `(69, 68, 526, 249)`; MBE `(132, 114, 483, 315)`. PAUSE retains the authors' 2361 × 1364 PNG bytes. Original figure attribution and rights remain with the respective authors and publishers.
 
