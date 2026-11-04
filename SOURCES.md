@@ -1,6 +1,6 @@
 # Content provenance
 
-Content checked on **2026-10-31**.
+Content last updated on **2026-11-04**.
 
 ## Confirmed by the owner in this conversation
 
@@ -13,7 +13,6 @@ Content checked on **2026-10-31**.
 - 2023–2024: Algorithm Engineer, Qiyuan National Laboratory.
 - 2020–2023: Master’s studies in Automation, University of Science and Technology of China; admitted through recommendation.
 - 2016–2020: Bachelor’s studies in Automation, Xiamen University.
-- 2010–2016: Middle and high school, Beijing Chaoyang Foreign Language School.
 - 2026: China Association for Science and Technology (CAST), Young Science and Technology Talent Cultivation Program, Doctoral Student Track.
 - 2025: National Scholarship for Doctoral Students.
 - 2023: Outstanding Graduate, University of Science and Technology of China.
